@@ -5,4 +5,10 @@ This script will take only your accepted invites, or invites where you are not o
 
 In the future I'd also like to improve this script to make my WFH life easier 🙏.
 
+Dependencies:
+* Calendar (pip3 install icalendar)
+* PyExcel (pip3 install pyexcel pyexcel-xlsx)
+
 Convert your calendar (.ics) file to an excel (.xls) file using this simple script.
+
+You can use this script however you want, I take no responsibility. 👍
