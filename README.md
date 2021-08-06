@@ -11,4 +11,12 @@ Dependencies:
 
 Convert your calendar (.ics) file to an excel (.xls) file using this simple script.
 
-You can use this script however you want, I take no responsibility. 👍
+How to use:
+```
+python3 cal2csv.py <your_ics_file> <month>
+
+example: python3 cal2csv.py testing.ics 7
+this will generate your schedules in july
+```
+
+You can use this script however you want. 👍
